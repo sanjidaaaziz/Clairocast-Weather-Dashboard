@@ -2,8 +2,8 @@
 
 A modern, responsive weather dashboard built with React and TypeScript, featuring a beautiful glassmorphism design that adapts to current weather conditions.
 
-![cover](https://github.com/user-attachments/assets/1cc5443c-2525-4d5e-8ab8-9df0c180d4e0)
-![cover2](https://github.com/user-attachments/assets/505144bd-cd79-440e-9158-faf86530be08)
+![cover](https://github.com/user-attachments/assets/9ce9a6fe-1596-47d1-ad31-d859fc962400)
+![cover2](https://github.com/user-attachments/assets/b8b45b30-19bf-4dae-a138-1672c0a14ae9)
 
 ## Features
 
@@ -88,7 +88,7 @@ src/
 
 #### Current conditions
 
-  ![current](https://github.com/user-attachments/assets/028d9213-da63-4c10-a322-f757c059a3ab)
+  ![current](https://github.com/user-attachments/assets/55411ae4-f066-4733-832b-a5e067389f77)
 
 #### 7-day forecast
 
