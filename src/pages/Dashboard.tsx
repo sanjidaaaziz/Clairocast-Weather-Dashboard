@@ -111,7 +111,7 @@ const Dashboard: React.FC = () => {
 
         <footer className="relative z-10 container mx-auto px-4 py-4">
           <p className="text-white/60 text-center text-sm">
-            Weather Dashboard • Data sourced from WeatherAPI.com <br />©{" "}
+            Clairocast • Data sourced from WeatherAPI.com <br />©{" "}
             {currentYear} Sanjida Binta Aziz. All rights reserved.
           </p>
         </footer>
