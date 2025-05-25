@@ -1,24 +1,25 @@
 # Clairocast — A Modern Weather Dashboard
 
 A modern, responsive weather dashboard built with React and TypeScript, featuring a beautiful glassmorphism design that adapts to current weather conditions.
+
 ![cover](https://github.com/user-attachments/assets/1cc5443c-2525-4d5e-8ab8-9df0c180d4e0)
 ![cover2](https://github.com/user-attachments/assets/505144bd-cd79-440e-9158-faf86530be08)
 
 ## Features
 
- 🌡️ Real-time weather data with dynamic updates
- 📱 Fully responsive design for all devices
- 🎨 Dynamic backgrounds based on weather conditions
- 📍 Geolocation support for instant local weather
- 💾 Save and manage multiple locations
- 📊 Interactive weather charts and visualizations
- ⚡ Real-time weather alerts
- 🌍 7-day forecast with detailed information
- ⏰ Hourly weather updates
- 🎯 Precise location search
- 🌓 Day/night mode adaptation
- 🔄 Temperature unit conversion (°C/°F)
- 🕒 Time format selection (12h/24h)
+- 🌡️ Real-time weather data with dynamic updates
+- 📱 Fully responsive design for all devices
+- 🎨 Dynamic backgrounds based on weather conditions
+- 📍 Geolocation support for instant local weather
+- 💾 Save and manage multiple locations
+- 📊 Interactive weather charts and visualizations
+- ⚡ Real-time weather alerts
+- 🌍 7-day forecast with detailed information
+- ⏰ Hourly weather updates
+- 🎯 Precise location search
+- 🌓 Day/night mode adaptation
+- 🔄 Temperature unit conversion (°C/°F)
+- 🕒 Time format selection (12h/24h)
 
 ## Tech Stack
 
@@ -85,7 +86,8 @@ src/
 
 ### Weather Data
 
-- Current conditions
+#### Current conditions
+
   ![current](https://github.com/user-attachments/assets/028d9213-da63-4c10-a322-f757c059a3ab)
 
 - 7-day forecast
