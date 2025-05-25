@@ -32,7 +32,6 @@ const CurrentWeather: React.FC = () => {
       ),
       label: "Wind",
       value: isMetric ? `${current.wind_kph} km/h` : `${current.wind_mph} mph`,
-      direction: current.wind_dir,
     },
     {
       icon: (
