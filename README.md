@@ -40,8 +40,8 @@ A modern, responsive weather dashboard built with React and TypeScript, featurin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/weather-dashboard.git
-   cd weather-dashboard
+   git clone https://github.com/sanjidaaaziz/Clairocast-Weather-Dashboard.git
+   cd Clairocast-Weather-Dashboard
    ```
 
 2. Install dependencies:
