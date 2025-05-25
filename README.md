@@ -90,10 +90,19 @@ src/
 
   ![current](https://github.com/user-attachments/assets/028d9213-da63-4c10-a322-f757c059a3ab)
 
-- 7-day forecast
-- Hourly updates
-- Weather alerts
-- Historical trends
+#### 7-day forecast
+
+  ![7days](https://github.com/user-attachments/assets/869307f5-948e-4458-ac47-6c29cc5dd16b)
+
+#### Hourly updates
+
+  ![hour](https://github.com/user-attachments/assets/53377cc3-13e2-46e6-8ffa-b0e309fda3f8)
+
+#### Weather alerts
+#### Historical trends
+
+  ![weather_trends](https://github.com/user-attachments/assets/26577624-33ef-4ebc-939d-6188e0f60c67)
+
 
 ### User Interface
 
