@@ -61,17 +61,18 @@ const Header: React.FC = () => {
 
   return (
     <header className="fixed top-0 left-0 right-0 z-50 px-4 py-4 flex justify-between items-center">
-      <div className="flex items-center">
-        <h1 className="text-white text-2xl font-bold mr-2">Clairocast</h1>
+      <div className="flex flex-col items-start">
+        <h1 className="text-white text-2xl font-bold">Clairocast</h1>
         {currentLocation && (
-          <div className="flex items-center">
+          <div className="flex items-center mt-1">
             <MapPin className="h-4 w-4 text-white/80" />
             <span className="text-white/80 text-sm ml-1">
               {currentLocation.name}, {currentLocation.country}
             </span>
-          </div>
-        )}
-      </div>
+         </div>
+       )}
+     </div>
+
 
       <div className="flex items-center space-x-4">
         {!isMenuOpen && (
