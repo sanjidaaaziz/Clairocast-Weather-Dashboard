@@ -1,4 +1,4 @@
-# Clairocast — A Modern Weather Dashboard
+# 🌤️ Clairocast — A Modern Weather Dashboard
 
 A modern, responsive weather dashboard built with React and TypeScript, featuring a beautiful glassmorphism design that adapts to current weather conditions.
 
