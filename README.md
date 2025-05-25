@@ -1,5 +1,3 @@
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
 # Clairocast — A Modern Weather Dashboard
 
 A modern, responsive weather dashboard built with React and TypeScript, featuring a beautiful glassmorphism design that adapts to current weather conditions.
