@@ -6,7 +6,7 @@ A modern, responsive weather dashboard built with React and TypeScript, featurin
 ![cover2](https://github.com/user-attachments/assets/b8b45b30-19bf-4dae-a138-1672c0a14ae9)
 
 ## Live Demo
-🔗 [Live Demo](https://clairocast-weather-dashboard.vercel.app/)
+🔗 https://clairocast-weather-dashboard.vercel.app/
 
 ## Features
 
