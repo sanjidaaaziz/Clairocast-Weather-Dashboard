@@ -66,7 +66,10 @@ A modern, responsive weather dashboard built with React and TypeScript, featurin
    ```bash
    npm run dev
    ```
-5. Open your browser and visit `http://localhost:5173`
+5. Open your browser and visit
+   ```bash
+   `http://localhost:5173`
+   ````
 
 ### Development Mode
 
